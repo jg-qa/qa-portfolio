@@ -10,7 +10,7 @@ Email: asdfg@gmail.com
 Phone: +371 22222222
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/dina-vīgante-18ba7332)
+[![LinkedIn]
 
 ---
 
