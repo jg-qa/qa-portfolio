@@ -5,9 +5,6 @@ I have strong knowledge of software testing fundamentals, documentation, defect 
 
 Feel free to reach out or check out my projects on GitHub!
 
-## Contact me:
-Email: asdfg@gmail.com
-Phone: +371 22222222
 
 ## Connect with me
 [![LinkedIn]
